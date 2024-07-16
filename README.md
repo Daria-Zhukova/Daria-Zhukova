@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Я нахожусь в активном поиске позиции дата сайентиста.
+
+Окончила курс на Яндекс.Практикуме по специальности Data Science. Публикую некоторые свои учебные проекты.
+
+Telegram: [@daria_zh_0](https://t.me/daria_zh_0)
 <!--
 **Daria-Zhukova/Daria-Zhukova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
